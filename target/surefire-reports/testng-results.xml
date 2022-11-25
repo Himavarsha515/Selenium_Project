@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="32" passed="29" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-23T16:36:49 IST" name="Suite" finished-at="2022-11-23T16:37:16 IST" duration-ms="26967">
+    <groups>
+    </groups>
+    <test started-at="2022-11-23T16:36:49 IST" name="Test" finished-at="2022-11-23T16:37:16 IST" duration-ms="26967">
+      <class name="Report.TestClass1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Report.TestClass1@3d5c822d]" started-at="2022-11-23T16:36:49 IST" name="setup" finished-at="2022-11-23T16:36:54 IST" duration-ms="4920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="InvalidUsernameInvalidPassword()[pri:0, instance:Report.TestClass1@3d5c822d]" started-at="2022-11-23T16:36:54 IST" name="InvalidUsernameInvalidPassword" finished-at="2022-11-23T16:36:55 IST" duration-ms="866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidUsernameInvalidPassword -->
+        <test-method is-config="true" signature="clearup()[pri:0, instance:Report.TestClass1@3d5c822d]" started-at="2022-11-23T16:36:55 IST" name="clearup" finished-at="2022-11-23T16:36:55 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Report.TestClass1@3d5c822d]" started-at="2022-11-23T16:36:55 IST" name="setup" finished-at="2022-11-23T16:36:59 IST" duration-ms="3392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="InvalidUsernamevalidPassword()[pri:0, instance:Report.TestClass1@3d5c822d]" started-at="2022-11-23T16:36:59 IST" name="InvalidUsernamevalidPassword" finished-at="2022-11-23T16:36:59 IST" duration-ms="751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidUsernamevalidPassword -->
+        <test-method is-config="true" signature="clearup()[pri:0, instance:Report.TestClass1@3d5c822d]" started-at="2022-11-23T16:36:59 IST" name="clearup" finished-at="2022-11-23T16:37:00 IST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Report.TestClass1@3d5c822d]" started-at="2022-11-23T16:37:00 IST" name="setup" finished-at="2022-11-23T16:37:04 IST" duration-ms="3804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="noDetails()[pri:0, instance:Report.TestClass1@3d5c822d]" started-at="2022-11-23T16:37:04 IST" name="noDetails" finished-at="2022-11-23T16:37:04 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noDetails -->
+        <test-method is-config="true" signature="clearup()[pri:0, instance:Report.TestClass1@3d5c822d]" started-at="2022-11-23T16:37:04 IST" name="clearup" finished-at="2022-11-23T16:37:04 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Report.TestClass1@3d5c822d]" started-at="2022-11-23T16:37:04 IST" name="setup" finished-at="2022-11-23T16:37:08 IST" duration-ms="3795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validCredentials()[pri:0, instance:Report.TestClass1@3d5c822d]" started-at="2022-11-23T16:37:08 IST" name="validCredentials" finished-at="2022-11-23T16:37:11 IST" duration-ms="3466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validCredentials -->
+        <test-method is-config="true" signature="clearup()[pri:0, instance:Report.TestClass1@3d5c822d]" started-at="2022-11-23T16:37:11 IST" name="clearup" finished-at="2022-11-23T16:37:11 IST" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Report.TestClass1@3d5c822d]" started-at="2022-11-23T16:37:11 IST" name="setup" finished-at="2022-11-23T16:37:15 IST" duration-ms="3424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validUsernameInvalidPassword()[pri:0, instance:Report.TestClass1@3d5c822d]" started-at="2022-11-23T16:37:15 IST" name="validUsernameInvalidPassword" finished-at="2022-11-23T16:37:16 IST" duration-ms="1309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUsernameInvalidPassword -->
+        <test-method is-config="true" signature="clearup()[pri:0, instance:Report.TestClass1@3d5c822d]" started-at="2022-11-23T16:37:16 IST" name="clearup" finished-at="2022-11-23T16:37:16 IST" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearup -->
+      </class> <!-- Report.TestClass1 -->
+      <class name="Report.MyFirstTestNGTest">
+        <test-method signature="createAccount()[pri:0, instance:Report.MyFirstTestNGTest@618425b5]" started-at="2022-11-23T16:36:49 IST" name="createAccount" finished-at="2022-11-23T16:36:49 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method signature="deleteAccount()[pri:0, instance:Report.MyFirstTestNGTest@618425b5]" started-at="2022-11-23T16:36:49 IST" name="deleteAccount" finished-at="2022-11-23T16:36:49 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAccount -->
+        <test-method signature="login()[pri:0, instance:Report.MyFirstTestNGTest@618425b5]" started-at="2022-11-23T16:36:49 IST" name="login" finished-at="2022-11-23T16:36:49 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- Report.MyFirstTestNGTest -->
+      <class name="Report.cd">
+        <test-method signature="Create()[pri:0, instance:Report.cd@58695725]" started-at="2022-11-23T16:36:49 IST" name="Create" finished-at="2022-11-23T16:36:55 IST" duration-ms="5265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create -->
+      </class> <!-- Report.cd -->
+      <class name="Report.AssertionDemo">
+        <test-method signature="login()[pri:0, instance:Report.AssertionDemo@5d7148e2]" started-at="2022-11-23T16:36:55 IST" name="login" finished-at="2022-11-23T16:36:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="logOutApplication()[pri:0, instance:Report.AssertionDemo@5d7148e2]" started-at="2022-11-23T16:36:55 IST" name="logOutApplication" finished-at="2022-11-23T16:36:55 IST" depends-on-methods="Report.AssertionDemo.login" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutApplication -->
+      </class> <!-- Report.AssertionDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite started-at="2022-11-23T16:37:45 IST" name="Suite (1)" finished-at="2022-11-23T16:39:16 IST" duration-ms="90862">
+    <groups>
+    </groups>
+    <test started-at="2022-11-23T16:37:45 IST" name="Test" finished-at="2022-11-23T16:39:16 IST" duration-ms="90862">
+      <class name="Day4.DataDrivenLogin">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Day4.DataDrivenLogin@771a660]" started-at="2022-11-23T16:37:45 IST" name="setup" finished-at="2022-11-23T16:37:47 IST" duration-ms="1716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test(java.lang.String,java.lang.String)[pri:0, instance:Day4.DataDrivenLogin@771a660]" started-at="2022-11-23T16:37:47 IST" name="Test" data-provider="TestData" finished-at="2022-11-23T16:37:50 IST" duration-ms="2986" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sample9@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mukesh1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="Clearup()[pri:0, instance:Day4.DataDrivenLogin@771a660]" started-at="2022-11-23T16:37:50 IST" name="Clearup" finished-at="2022-11-23T16:37:50 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clearup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Day4.DataDrivenLogin@771a660]" started-at="2022-11-23T16:37:50 IST" name="setup" finished-at="2022-11-23T16:37:52 IST" duration-ms="1855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test(java.lang.String,java.lang.String)[pri:0, instance:Day4.DataDrivenLogin@771a660]" started-at="2022-11-23T16:37:52 IST" name="Test" data-provider="TestData" finished-at="2022-11-23T16:37:54 IST" duration-ms="1748" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samplemukesh@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mukesh1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="Clearup()[pri:0, instance:Day4.DataDrivenLogin@771a660]" started-at="2022-11-23T16:37:54 IST" name="Clearup" finished-at="2022-11-23T16:37:54 IST" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clearup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Day4.DataDrivenLogin@771a660]" started-at="2022-11-23T16:37:54 IST" name="setup" finished-at="2022-11-23T16:37:56 IST" duration-ms="1715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test(java.lang.String,java.lang.String)[pri:0, instance:Day4.DataDrivenLogin@771a660]" started-at="2022-11-23T16:37:56 IST" name="Test" data-provider="TestData" finished-at="2022-11-23T16:37:58 IST" duration-ms="1733" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samplemukesh1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mukesh1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="Clearup()[pri:0, instance:Day4.DataDrivenLogin@771a660]" started-at="2022-11-23T16:37:58 IST" name="Clearup" finished-at="2022-11-23T16:37:58 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clearup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Day4.DataDrivenLogin@771a660]" started-at="2022-11-23T16:37:58 IST" name="setup" finished-at="2022-11-23T16:37:59 IST" duration-ms="1782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test(java.lang.String,java.lang.String)[pri:0, instance:Day4.DataDrivenLogin@771a660]" started-at="2022-11-23T16:37:59 IST" name="Test" data-provider="TestData" finished-at="2022-11-23T16:38:20 IST" duration-ms="20424" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samplemukesh2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mukesh1234]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='Sign out']"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [945783667dbd413ad6d02e267643589c, findElement {using=xpath, value=//button[normalize-space()='Sign out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\arlhimav\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51731}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51731/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 945783667dbd413ad6d02e267643589c]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='Sign out']"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [945783667dbd413ad6d02e267643589c, findElement {using=xpath, value=//button[normalize-space()='Sign out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\arlhimav\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51731}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51731/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 945783667dbd413ad6d02e267643589c
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:541)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+at Day4.DataDrivenLogin.Test(DataDrivenLogin.java:40)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:324)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:74)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:123)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:456)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:169)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:595)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="Clearup()[pri:0, instance:Day4.DataDrivenLogin@771a660]" started-at="2022-11-23T16:38:20 IST" name="Clearup" finished-at="2022-11-23T16:38:20 IST" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clearup -->
+      </class> <!-- Day4.DataDrivenLogin -->
+      <class name="Day4.ExcelDataDriver">
+        <test-method signature="data()[pri:0, instance:Day4.ExcelDataDriver@2d52216b]" started-at="2022-11-23T16:38:20 IST" name="data" finished-at="2022-11-23T16:38:22 IST" duration-ms="1245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data -->
+      </class> <!-- Day4.ExcelDataDriver -->
+      <class name="Day4.ExcelLogin">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Day4.ExcelLogin@242b836]" started-at="2022-11-23T16:38:22 IST" name="setup" finished-at="2022-11-23T16:38:23 IST" duration-ms="1664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test(java.lang.String,java.lang.String)[pri:0, instance:Day4.ExcelLogin@242b836]" started-at="2022-11-23T16:38:23 IST" name="Test" data-provider="TestData" finished-at="2022-11-23T16:38:25 IST" duration-ms="1766" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sample9@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mukesh1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="Clearup()[pri:0, instance:Day4.ExcelLogin@242b836]" started-at="2022-11-23T16:38:25 IST" name="Clearup" finished-at="2022-11-23T16:38:25 IST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clearup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Day4.ExcelLogin@242b836]" started-at="2022-11-23T16:38:25 IST" name="setup" finished-at="2022-11-23T16:38:27 IST" duration-ms="1540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test(java.lang.String,java.lang.String)[pri:0, instance:Day4.ExcelLogin@242b836]" started-at="2022-11-23T16:38:27 IST" name="Test" data-provider="TestData" finished-at="2022-11-23T16:38:29 IST" duration-ms="1743" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samplemukesh@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mukesh1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="Clearup()[pri:0, instance:Day4.ExcelLogin@242b836]" started-at="2022-11-23T16:38:29 IST" name="Clearup" finished-at="2022-11-23T16:38:29 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clearup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Day4.ExcelLogin@242b836]" started-at="2022-11-23T16:38:29 IST" name="setup" finished-at="2022-11-23T16:38:30 IST" duration-ms="1556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test(java.lang.String,java.lang.String)[pri:0, instance:Day4.ExcelLogin@242b836]" started-at="2022-11-23T16:38:30 IST" name="Test" data-provider="TestData" finished-at="2022-11-23T16:38:32 IST" duration-ms="1731" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samplemukesh1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mukesh1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="Clearup()[pri:0, instance:Day4.ExcelLogin@242b836]" started-at="2022-11-23T16:38:32 IST" name="Clearup" finished-at="2022-11-23T16:38:32 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clearup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Day4.ExcelLogin@242b836]" started-at="2022-11-23T16:38:32 IST" name="setup" finished-at="2022-11-23T16:38:34 IST" duration-ms="1497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test(java.lang.String,java.lang.String)[pri:0, instance:Day4.ExcelLogin@242b836]" started-at="2022-11-23T16:38:34 IST" name="Test" data-provider="TestData" finished-at="2022-11-23T16:38:54 IST" duration-ms="20256" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samplemukesh2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mukesh1234]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='Sign out']"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [771a12dfb7637b3dccb3edac2da94655, findElement {using=xpath, value=//button[normalize-space()='Sign out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\arlhimav\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51859}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51859/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 771a12dfb7637b3dccb3edac2da94655]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='Sign out']"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [771a12dfb7637b3dccb3edac2da94655, findElement {using=xpath, value=//button[normalize-space()='Sign out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\arlhimav\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51859}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51859/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 771a12dfb7637b3dccb3edac2da94655
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:541)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+at Day4.ExcelLogin.Test(ExcelLogin.java:45)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:324)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:74)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:123)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:456)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:169)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:595)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="Clearup()[pri:0, instance:Day4.ExcelLogin@242b836]" started-at="2022-11-23T16:38:54 IST" name="Clearup" finished-at="2022-11-23T16:38:54 IST" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clearup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Day4.ExcelLogin@242b836]" started-at="2022-11-23T16:38:54 IST" name="setup" finished-at="2022-11-23T16:38:56 IST" duration-ms="1552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test(java.lang.String,java.lang.String)[pri:0, instance:Day4.ExcelLogin@242b836]" started-at="2022-11-23T16:38:56 IST" name="Test" data-provider="TestData" finished-at="2022-11-23T16:39:16 IST" duration-ms="20228" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[varsha@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sssss]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='Sign out']"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [730ceac5c9d1dcfb70c753f123425d88, findElement {using=xpath, value=//button[normalize-space()='Sign out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\arlhimav\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51901}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51901/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 730ceac5c9d1dcfb70c753f123425d88]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='Sign out']"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [730ceac5c9d1dcfb70c753f123425d88, findElement {using=xpath, value=//button[normalize-space()='Sign out']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\arlhimav\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51901}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51901/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 730ceac5c9d1dcfb70c753f123425d88
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:541)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+at Day4.ExcelLogin.Test(ExcelLogin.java:45)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:324)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:74)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:123)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:456)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:169)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:595)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="Clearup()[pri:0, instance:Day4.ExcelLogin@242b836]" started-at="2022-11-23T16:39:16 IST" name="Clearup" finished-at="2022-11-23T16:39:16 IST" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clearup -->
+      </class> <!-- Day4.ExcelLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (1) -->
+  <suite started-at="2022-11-23T16:37:16 IST" name="Suite (0)" finished-at="2022-11-23T16:37:45 IST" duration-ms="29112">
+    <groups>
+    </groups>
+    <test started-at="2022-11-23T16:37:16 IST" name="Test" finished-at="2022-11-23T16:37:45 IST" duration-ms="29112">
+      <class name="Report.TestClass1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Report.TestClass1@23c30a20]" started-at="2022-11-23T16:37:16 IST" name="setup" finished-at="2022-11-23T16:37:20 IST" duration-ms="3623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="InvalidUsernameInvalidPassword()[pri:0, instance:Report.TestClass1@23c30a20]" started-at="2022-11-23T16:37:20 IST" name="InvalidUsernameInvalidPassword" finished-at="2022-11-23T16:37:21 IST" duration-ms="964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidUsernameInvalidPassword -->
+        <test-method is-config="true" signature="clearup()[pri:0, instance:Report.TestClass1@23c30a20]" started-at="2022-11-23T16:37:21 IST" name="clearup" finished-at="2022-11-23T16:37:21 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Report.TestClass1@23c30a20]" started-at="2022-11-23T16:37:21 IST" name="setup" finished-at="2022-11-23T16:37:24 IST" duration-ms="3360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="InvalidUsernamevalidPassword()[pri:0, instance:Report.TestClass1@23c30a20]" started-at="2022-11-23T16:37:24 IST" name="InvalidUsernamevalidPassword" finished-at="2022-11-23T16:37:25 IST" duration-ms="766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidUsernamevalidPassword -->
+        <test-method is-config="true" signature="clearup()[pri:0, instance:Report.TestClass1@23c30a20]" started-at="2022-11-23T16:37:25 IST" name="clearup" finished-at="2022-11-23T16:37:25 IST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Report.TestClass1@23c30a20]" started-at="2022-11-23T16:37:25 IST" name="setup" finished-at="2022-11-23T16:37:29 IST" duration-ms="3553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="noDetails()[pri:0, instance:Report.TestClass1@23c30a20]" started-at="2022-11-23T16:37:29 IST" name="noDetails" finished-at="2022-11-23T16:37:29 IST" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noDetails -->
+        <test-method is-config="true" signature="clearup()[pri:0, instance:Report.TestClass1@23c30a20]" started-at="2022-11-23T16:37:29 IST" name="clearup" finished-at="2022-11-23T16:37:29 IST" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Report.TestClass1@23c30a20]" started-at="2022-11-23T16:37:29 IST" name="setup" finished-at="2022-11-23T16:37:33 IST" duration-ms="3550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validCredentials()[pri:0, instance:Report.TestClass1@23c30a20]" started-at="2022-11-23T16:37:33 IST" name="validCredentials" finished-at="2022-11-23T16:37:37 IST" duration-ms="3752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validCredentials -->
+        <test-method is-config="true" signature="clearup()[pri:0, instance:Report.TestClass1@23c30a20]" started-at="2022-11-23T16:37:37 IST" name="clearup" finished-at="2022-11-23T16:37:37 IST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Report.TestClass1@23c30a20]" started-at="2022-11-23T16:37:37 IST" name="setup" finished-at="2022-11-23T16:37:40 IST" duration-ms="3424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validUsernameInvalidPassword()[pri:0, instance:Report.TestClass1@23c30a20]" started-at="2022-11-23T16:37:40 IST" name="validUsernameInvalidPassword" finished-at="2022-11-23T16:37:41 IST" duration-ms="1221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUsernameInvalidPassword -->
+        <test-method is-config="true" signature="clearup()[pri:0, instance:Report.TestClass1@23c30a20]" started-at="2022-11-23T16:37:41 IST" name="clearup" finished-at="2022-11-23T16:37:42 IST" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearup -->
+      </class> <!-- Report.TestClass1 -->
+      <class name="Report.MyFirstTestNGTest">
+        <test-method signature="createAccount()[pri:0, instance:Report.MyFirstTestNGTest@1e1a0406]" started-at="2022-11-23T16:37:42 IST" name="createAccount" finished-at="2022-11-23T16:37:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method signature="deleteAccount()[pri:0, instance:Report.MyFirstTestNGTest@1e1a0406]" started-at="2022-11-23T16:37:42 IST" name="deleteAccount" finished-at="2022-11-23T16:37:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAccount -->
+        <test-method signature="login()[pri:0, instance:Report.MyFirstTestNGTest@1e1a0406]" started-at="2022-11-23T16:37:42 IST" name="login" finished-at="2022-11-23T16:37:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- Report.MyFirstTestNGTest -->
+      <class name="Report.cd">
+        <test-method signature="Create()[pri:0, instance:Report.cd@3cebbb30]" started-at="2022-11-23T16:37:42 IST" name="Create" finished-at="2022-11-23T16:37:45 IST" duration-ms="3783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create -->
+      </class> <!-- Report.cd -->
+      <class name="Report.AssertionDemo">
+        <test-method signature="login()[pri:0, instance:Report.AssertionDemo@12aba8be]" started-at="2022-11-23T16:37:45 IST" name="login" finished-at="2022-11-23T16:37:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="logOutApplication()[pri:0, instance:Report.AssertionDemo@12aba8be]" started-at="2022-11-23T16:37:45 IST" name="logOutApplication" finished-at="2022-11-23T16:37:45 IST" depends-on-methods="Report.AssertionDemo.login" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutApplication -->
+      </class> <!-- Report.AssertionDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+</testng-results>

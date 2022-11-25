@@ -1,0 +1,33 @@
+package Report;
+
+import org.testng.annotations.Test;
+import org.testng.AssertJUnit;
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+public class AssertionDemo {
+	@Test
+
+	public void login() {
+		AssertJUnit.assertTrue(true);
+		System.out.println("Login");
+		//Reporter.log
+	}
+//	@Test
+
+//	public void createAccount() {
+//		System.out.println("Created Account");
+//	}
+//	@Test
+//	public void deleteAccount() {
+//		System.out.println("Deleted Account");
+//	}
+	@Test(dependsOnMethods="login")
+	public void logOutApplication() {
+		AssertJUnit.assertTrue(true);
+		System.out.println("LogOut Done");
+	}
+
+
+
+}
